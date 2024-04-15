@@ -1,0 +1,15 @@
+{
+  "offers": [
+    {
+      "id": "4cb9",
+      "name": "John Doe",
+      "role": "Frontend Developer",
+      "team": "Engineering",
+      "organization": "Acme Inc.",
+      "compensation": "$X annual salary\nStock Options",
+      "benefits": "Health insurance\nProfessional Development Opportunities",
+      "responsibilities": "Collaborating with back-end developers and designers to improve usability.\nTranslating designs and wireframes into high-quality code.",
+      "message": ""
+    }
+  ]
+}
