@@ -1,4 +1,7 @@
 import App from "./App";
+import CreateOffer from "../components/CreateOffer";
+import ViewOffers from "../components/ViewOffers";
+import Offer from "../components/Offer";
 
 export default [
   {
