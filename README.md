@@ -3,7 +3,7 @@ I built a dashboard oriented HR offer letter crud app POC with a basic header-si
 
 # 2. Set-Up
 ```
-npm run install
+npm install
 npm run demo
 ```
 After this, go to http://localhost:5173/ in your web browser.
